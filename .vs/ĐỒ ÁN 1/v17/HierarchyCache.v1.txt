@@ -1,0 +1,245 @@
+﻿++Solution 'ĐỒ ÁN 1' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:ĐỒ ÁN 1.sln
+++BUS
+i:{00000000-0000-0000-0000-000000000000}:BUS
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++Properties
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\properties\
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\properties\
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\properties\
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\
+++References
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++BUS_CTHoaDonBan.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_cthoadonban.cs
+++BUS_CTHoaDonNhap.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_cthoadonnhap.cs
+++BUS_HoaDonBan.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_hoadonban.cs
+++BUS_HoaDonNhap.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_hoadonnhap.cs
+++BUS_KhachHang.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_khachhang.cs
+++BUS_NHACC.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_nhacc.cs
+++BUS_NhanVien.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_nhanvien.cs
+++BUS_SanPham.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\bus_sanpham.cs
+++AssemblyInfo.cs
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\bus\properties\assemblyinfo.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\properties\assemblyinfo.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\properties\assemblyinfo.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\assemblyinfo.cs
+++DAL
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{00000000-0000-0000-0000-000000000000}:DAL
+++DTO
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{00000000-0000-0000-0000-000000000000}:DTO
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++Microsoft.CSharp
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Core
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Data
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Data.DataSetExtensions
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Net.Http
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Xml
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Xml.Linq
+i:{9307c49f-8bd9-43b8-8004-0b79ee3d9b30}:
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++DAL_CTHoaDonBan.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_cthoadonban.cs
+++DAL_CTHoaDonNhap.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_cthoadonnhap.cs
+++DAL_HoaDonBan.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_hoadonban.cs
+++DAL_HoaDonNhap.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_hoadonnhap.cs
+++DAL_KhachHang.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_khachhang.cs
+++DAL_NHACC.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_nhacc.cs
+++DAL_NhanVien.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_nhanvien.cs
+++DAL_SanPham.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dal_sanpham.cs
+++DBConnect.cs
+i:{758d1697-1a41-4f7a-9520-6f0cac240c7c}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dal\dbconnect.cs
+++DTO_CTHoaDonBan.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_cthoadonban.cs
+++DTO_CTHoaDonNhap.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_cthoadonnhap.cs
+++DTO_HoaDonBan.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_hoadonban.cs
+++DTO_HoaDonNhap.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_hoadonnhap.cs
+++DTO_KhachHang.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_khachhang.cs
+++DTO_NHACC.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_nhacc.cs
+++DTO_NhanVien.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_nhanvien.cs
+++DTO_SanPham.cs
+i:{79cf9cda-c46a-48f0-845a-cc77502a1081}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\dto\dto_sanpham.cs
+++GUI
+i:{00000000-0000-0000-0000-000000000000}:GUI
+++bin
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\
+++obj
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\
+++Resources
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\resources\
+++App.config
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\app.config
+++GUI_CTHoaDonBan.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonban.cs
+++GUI_CTHoaDonNhap.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonnhap.cs
+++GUI_DangNhap.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_dangnhap.cs
+++GUI_HoaDonBan.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonban.cs
+++GUI_HoaDonNhap.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonnhap.cs
+++GUI_KhachHang.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_khachhang.cs
+++GUI_NHACC.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhacc.cs
+++GUI_NhanVien.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhanvien.cs
+++GUI_SanPham.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_sanpham.cs
+++GUI_TrangChu.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchu.cs
+++GUI_TrangChuNV.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchunv.cs
+++Program.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\program.cs
+++Resources.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\resources.resx
+++Settings.settings
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\settings.settings
+++System.Deployment
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Drawing
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++System.Windows.Forms
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:
+++Debug
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\debug\
+++Release
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\release\
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\release\
+++91f00793e3223dee57a089f5f66cb7c7.jpg
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\resources\91f00793e3223dee57a089f5f66cb7c7.jpg
+++Mau-thiet-ke-shop-tui-xach-hien-dai-3.jpg
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\resources\mau-thiet-ke-shop-tui-xach-hien-dai-3.jpg
+++Mau-thiet-ke-shop-tui-xach-hien-dai-31.jpg
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\resources\mau-thiet-ke-shop-tui-xach-hien-dai-31.jpg
+++GUI_CTHoaDonBan.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonban.designer.cs
+++GUI_CTHoaDonBan.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonban.resx
+++GUI_CTHoaDonNhap.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonnhap.designer.cs
+++GUI_CTHoaDonNhap.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_cthoadonnhap.resx
+++GUI_DangNhap.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_dangnhap.designer.cs
+++GUI_DangNhap.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_dangnhap.resx
+++GUI_HoaDonBan.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonban.designer.cs
+++GUI_HoaDonBan.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonban.resx
+++GUI_HoaDonNhap.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonnhap.designer.cs
+++GUI_HoaDonNhap.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_hoadonnhap.resx
+++GUI_KhachHang.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_khachhang.designer.cs
+++GUI_KhachHang.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_khachhang.resx
+++GUI_NHACC.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhacc.designer.cs
+++GUI_NHACC.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhacc.resx
+++GUI_NhanVien.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhanvien.designer.cs
+++GUI_NhanVien.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_nhanvien.resx
+++GUI_SanPham.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_sanpham.designer.cs
+++GUI_SanPham.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_sanpham.resx
+++GUI_TrangChu.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchu.designer.cs
+++GUI_TrangChu.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchu.resx
+++GUI_TrangChuNV.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchunv.designer.cs
+++GUI_TrangChuNV.resx
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\gui_trangchunv.resx
+++Resources.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\properties\settings.designer.cs
+++BUS.dll
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\bus.dll
+++BUS.pdb
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\bus.pdb
+++DAL.dll
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\dal.dll
+++DAL.pdb
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\dal.pdb
+++ĐỒ ÁN 1.exe
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\đồ án 1.exe
+++ĐỒ ÁN 1.exe.config
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\đồ án 1.exe.config
+++ĐỒ ÁN 1.pdb
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\đồ án 1.pdb
+++DTO.dll
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\dto.dll
+++DTO.pdb
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\bin\debug\dto.pdb
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\release\.netframework,version=v4.7.2.assemblyattributes.cs
+++GUI.csproj.AssemblyReference.cache
+i:{454e3bad-23b5-452f-9bd4-e8d96eb32b4e}:d:\12521099_hoàng thị kim oanh_đồ án 1\đồ án 1\đồ án 1\obj\release\gui.csproj.assemblyreference.cache

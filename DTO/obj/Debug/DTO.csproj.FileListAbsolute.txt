@@ -1,0 +1,6 @@
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\bin\Debug\DTO.dll
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\bin\Debug\DTO.pdb
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\obj\Debug\DTO.dll
+D:\12521099_Hoàng Thị Kim Oanh_Đồ Án 1\ĐỒ ÁN 1\DTO\obj\Debug\DTO.pdb
